@@ -1,0 +1,6 @@
+- Hi, I’m @JarringBye
+- A Chinese software engineer
+- I’m interested in web front end
+- I am currently applying for a job
+- You can contact me by email lilcandle.qq.com
+- I would love to exchange technology with you
